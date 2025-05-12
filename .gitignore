@@ -9,4 +9,5 @@ wandb/
 
 # .pyc
 src/__pycache__
+src/models/__pycache__
 */*/*.pyc
