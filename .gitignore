@@ -1,0 +1,12 @@
+# results
+results/
+
+# env files
+*.env
+
+# wandb
+wandb/
+
+# .pyc
+src/__pycache__
+*/*/*.pyc

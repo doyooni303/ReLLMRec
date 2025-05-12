@@ -1,0 +1,9 @@
+Here is the item history of {uid}: <Title 1>, <Title 2>,...,<Title N>.
+And also, here is the descrptions and review of each items in a time sequence:
+[Item Description and Review]
+1. <Title 1>: <DESC><description 1><Review><Review 1>
+2. ...
+N. <Title N>: <DESC><description N><Review><Review N>.
+
+Given the information of the item history of {uid}, please recommend the next item that <USER ID> will like.
+[Answer]:{iid}

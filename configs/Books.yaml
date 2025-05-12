@@ -1,0 +1,27 @@
+seed: 303
+path: "/DATA/Recommendation/amazon/Books"
+fname: "Books"
+max_items: 15
+min_items: 5
+max_length: 512
+max_input_length: 1024
+llm_dim: 4096
+item_dim: 768
+latent_dim: 16
+top_k: 10
+top_k_list: [10, 15, 20]
+model_name: "meta-llama/Llama-3.1-8B-Instruct"
+batch_size: 2
+gpu: 2
+train_item_embeddings: True
+LoRA TaskType: "CAUSAL_LM" #"FEATURE_EXTRACTION"
+LoRA:
+  r: 8 # Rank
+  lora_alpha: 16 # Alpha scaling factor
+  lora_dropout: 0.1 # Dropout rate
+  target_modules: ["q_proj", "v_proj", "k_proj"]
+  bias: "none"
+max_epochs: 5
+lr: 1e-4
+output: ./results/
+test: True

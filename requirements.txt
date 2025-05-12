@@ -1,0 +1,5 @@
+jq
+faiss-gpu
+langchain
+langchain-community
+numba
