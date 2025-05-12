@@ -1,0 +1,11 @@
+2025-04-15 14:58:45,362 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Start training
+2025-04-15 14:58:50,572 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 1/100 || Iter: 0/464103 || Loss: 2.33984375
+2025-04-15 14:58:51,214 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 2/100 || Iter: 1/464103 || Loss: nan
+2025-04-15 14:58:51,834 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 3/100 || Iter: 2/464103 || Loss: nan
+2025-04-15 14:58:52,442 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 4/100 || Iter: 3/464103 || Loss: nan
+2025-04-15 14:58:53,071 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 5/100 || Iter: 4/464103 || Loss: nan
+2025-04-15 14:58:53,678 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 6/100 || Iter: 5/464103 || Loss: nan
+2025-04-15 14:58:54,293 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 7/100 || Iter: 6/464103 || Loss: nan
+2025-04-15 14:58:54,910 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 8/100 || Iter: 7/464103 || Loss: nan
+2025-04-15 14:58:56,667 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 9/100 || Iter: 8/464103 || Loss: nan
+2025-04-15 14:58:57,272 - Books-top_k-10-steps-100-Apr-15-2025_14-58-45 - INFO - Steps: 10/100 || Iter: 9/464103 || Loss: nan

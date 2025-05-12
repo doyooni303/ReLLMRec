@@ -1,5 +1,5 @@
 # results
-results/
+results/*/*/*.pth
 
 # env files
 *.env
